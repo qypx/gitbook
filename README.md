@@ -4,7 +4,7 @@
 
 * help函数
 
-![&#x4F7F;&#x7528;help\(\) &#x67E5;&#x770B;&#x5E2E;&#x52A9;](.gitbook/assets/tu-pian%20%285%29.png)
+![&#x4F7F;&#x7528;help\(\) &#x67E5;&#x770B;&#x5E2E;&#x52A9;](.gitbook/assets/tu-pian%20%286%29.png)
 
 * dir\(\)函数
 
@@ -14,7 +14,7 @@
 
 ![](.gitbook/assets/tu-pian%20%283%29.png)
 
-![](.gitbook/assets/tu-pian%20%284%29.png)
+![](.gitbook/assets/tu-pian%20%285%29.png)
 
 * 比较操作符
 
@@ -22,5 +22,11 @@
 
 * Python中的引号
 
+![](.gitbook/assets/tu-pian%20%289%29.png)
+
+* type\(\)函数
+
 ![](.gitbook/assets/tu-pian%20%287%29.png)
+
+![](.gitbook/assets/tu-pian%20%2811%29.png)
 
