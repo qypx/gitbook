@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Content](README.md)
+* [Python中的简单语法](README.md)
 

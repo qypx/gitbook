@@ -1,23 +1,26 @@
-# Content
+# Python中的简单语法
 
-## Getting Super Powers
+**缩进是Python的灵魂**
 
-Becoming a super hero is a fairly straight forward process:
+* help函数
 
-```
-$ give me super-powers
-```
+![&#x4F7F;&#x7528;help\(\) &#x67E5;&#x770B;&#x5E2E;&#x52A9;](.gitbook/assets/tu-pian%20%285%29.png)
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+* dir\(\)函数
 
-Once you're strong enough, save the world:
+![&#x4F7F;&#x7528;dir\(\_\_builtins\_\_\) &#x53EF;&#x67E5;&#x770B;&#x5185;&#x7F6E;&#x51FD;&#x6570; \(&#x5176;&#x4E2D;&#x5C0F;&#x5199;&#x7684;&#x662F;&#x5185;&#x7F6E;&#x51FD;&#x6570;\(bif - built-in functions \)\)](.gitbook/assets/tu-pian.png)
 
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+* 逻辑运算符
 
+![](.gitbook/assets/tu-pian%20%283%29.png)
 
+![](.gitbook/assets/tu-pian%20%284%29.png)
+
+* 比较操作符
+
+![](.gitbook/assets/tu-pian%20%281%29.png)
+
+* Python中的引号
+
+![](.gitbook/assets/tu-pian%20%287%29.png)
 
